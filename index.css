@@ -1,0 +1,26 @@
+body{
+    --color1: rgb(246, 244, 235);
+    --color2: rgb(0, 0, 0);
+    --color3: rgb(116, 155, 194);
+    --color4: rgb(70, 130, 169);
+    background: var(--color2);
+    position: relative;
+}
+.no-select{
+    margin-top: 100px;
+    font-size: 35px;
+    width: 60%;
+    color:  rgb(246, 244, 235);
+    margin-left: 270px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.name{
+    color: var(--color1);
+    margin-left: 270px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: -45px;
+    
+    
+}
+
+
